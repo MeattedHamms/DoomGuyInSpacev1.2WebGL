@@ -1,1 +1,1 @@
-# DoomGuyInSpacev1.2WebGL
+# Click Code -> Download Zip -> Open Zip -> Extract into a seperate folder -> open index -> play
